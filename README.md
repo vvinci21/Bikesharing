@@ -43,8 +43,11 @@ Tableau Results [Click Here](https://public.tableau.com/app/profile/vincent.r.vi
 
 
 ## Summary: 
-* The are several takeaways from the Citi Bike Data from NYC as a model for the program.
-1. Bike stations should be under 20 minutes away from each other in areas where there is already a lot of foot traffic—the starting and ending locations from NYC support this and the trip duration. 
-1. A subscriber user model works well for a consistent bike share throughout the week before and after work hours. A non-subscriber option needs to be included for the customers who only use the program once as they visit the city. A higher number of bike shares will occur during the weekend for both user types. 
-1. Individuals who identify as Male are likely to make up the subscriber base.
-* Other visualizations that may be useful for further analysis include adding additional months to gauge a year-long business model. Additionally, more information related to the age of the user would be helpful to create a better customer profile for marketing.
+* In summary:
+  * Bike stations should be less than 20 minutes apart based on the trip duration data and in high traffic areas.
+  * Subsribers typically use the bike during the week while customers frequent on the weekends. A higher number of rides occur on the weekends. In all of these cases males make up most of the riders.
+
+* Other visualizations that may be useful for further analysis include:
+  * Age related data to better target the correct demographic.
+  * Monthly rental data to determine if ride traffic is seasonal.
+ 
